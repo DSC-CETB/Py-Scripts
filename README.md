@@ -2,11 +2,11 @@
 
 # Py-SCRIPTS
 
-![Contributors](https://img.shields.io/github/contributors/yagyandatta/Py-Scripts?color=darkgreen&style=plasitc)
-![Forks](https://img.shields.io/github/forks/yagyandatta/Py-Scripts?color=blue&style=plasitc)
-![stars](https://img.shields.io/github/stars/yagyandatta/Py-Scripts?style=plastic)
-![pull_request](https://img.shields.io/github/issues-pr/yagyandatta/Py-Scripts?style=plastic)
-![watchers](https://img.shields.io/github/watchers/yagyandatta/Py-Scripts?style=social)
+![Contributors](https://img.shields.io/github/contributors/DSC-CETB/Py-Scripts?color=darkgreen&style=plasitc)
+![Forks](https://img.shields.io/github/forks/DSC-CETB/Py-Scripts?color=blue&style=plasitc)
+![stars](https://img.shields.io/github/stars/DSC-CETB/Py-Scripts?style=plastic)
+![pull_request](https://img.shields.io/github/issues-pr/DSC-CETB/Py-Scripts?style=plastic)
+![watchers](https://img.shields.io/github/watchers/DSC-CETB/Py-Scripts?style=social)
 
 # Contribute to this documentation
 
@@ -36,7 +36,7 @@ If you don't have git on your machine, [install it](https://help.github.com/arti
 
 ## 🧑🏿‍💻 **How to contribute**
 
-This repository accepts all kinds of script contributions. Before making a contribution please make sure you have gone through our [contributing guidelines](https://github.com/yagyandatta/Py-Scripts/blob/master/.github/CONTRIBUTING.md).
+This repository accepts all kinds of script contributions. Before making a contribution please make sure you have gone through our [contributing guidelines](https://github.com/DSC-CETB/Py-Scripts/blob/master/.github/CONTRIBUTING.md).
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/64744084/95018364-e7d2df00-067c-11eb-9989-5ed586adb11b.jpg" alt="fork this repository" />
 
@@ -54,14 +54,14 @@ This repository accepts all kinds of script contributions. Before making a contr
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
 ```shell
-git clone https://github.com/yagyandatta/Py-Scripts.git
+git clone https://github.com/DSC-CETB/Py-Scripts.git
 ```
 
 ## 3️⃣ Add a remote (upstream) to original project repository
 
 ```shell
 cd Py-Scripts
-git remote add upstream https://github.com/yagyandatta/Py-Scripts.git
+git remote add upstream https://github.com/DSC-CETB/Py-Scripts.git
 ```
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />

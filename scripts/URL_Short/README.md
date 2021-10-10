@@ -15,5 +15,4 @@ Use your shortened URL
 
 #### Screenshots
 
-
 ![image](https://github.com/yagyandatta/Py-Scripts/blob/master/.github/images/short_url.png)
