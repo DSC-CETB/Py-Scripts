@@ -13,8 +13,11 @@
 Thank you for your interest in this project!
 
 * [Introduction](#introduction)
+* [Creating an Issue](#creating-an-issue)
 * [How to contribute](#how-to-contribute)
+* [Accessible Scripts](#accessible-scripts)
 * [Contribute on](#contribute-on)
+* [FAQ](#faq)
 * [Author](#author)
 
 ## **Introduction**
