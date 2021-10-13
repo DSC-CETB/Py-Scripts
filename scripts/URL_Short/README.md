@@ -1,4 +1,5 @@
-# Shorty
+# URL_Short
+
 ### A compact URL shortener
 
 URL_Short uses `python` code to shorten URLs on the go!
