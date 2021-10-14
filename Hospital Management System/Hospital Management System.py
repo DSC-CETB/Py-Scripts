@@ -2,7 +2,7 @@ from tkinter import *
 import mysql.connector as ms
 
 # CONNECT TO DATABASE
-db = ms.connect(user="root", password="aryan11", host="localhost",
+db = ms.connect(user="root", password="mypassword", host="localhost",
 database="HospitalManagementSystem")
 cursor = db.cursor(buffered=True)
 
