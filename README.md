@@ -48,7 +48,8 @@ This repository accepts all kinds of Python script contributions. Please refer t
 | 3         | [FILE_Organiser](https://github.com/DSC-CETB/Py-Scripts/tree/main/scripts/FILE_Organiser.py)          | Organize all type of files in your storage URLs                                                                          | [Yagyandatta](https://github.com/yagyandatta)      |
 | 4         | [PDF MERGER](https://github.com/DSC-CETB/Py-Scripts/tree/main/scripts/PDF_Merger)           | This script allows you to merge pdf files                                               | [Yagyandatta](https://github.com/yagyandatta)             |
 | 5         | [Public IP Address](https://github.com/DSC-CETB/Py-Scripts/tree/main/scripts/Public%20IP%20Address)         | Find your external IP address on the internet usage                                                       | [Yagyandatta](https://github.com/yagyandatta)         |
-| 6         | [URL_Short](https://github.com/DSC-CETB/Py-Scripts/tree/main/scripts/URL_Short)   | This Script allows you to shorten a URL | [Yagyandatta](https://github.com/yagyandatta)
+| 6         | [URL_Short](https://github.com/DSC-CETB/Py-Scripts/tree/main/scripts/URL_Short)   | This Script allows you to shorten a URL | [Yagyandatta](https://github.com/yagyandatta) |
+| 7         | [Password_saver](https://github.com/DSC-CETB/Py-Scripts/tree/main/scripts/Password-saver)   | This script allows you to Store your password in encrypted format | [avijit](https://github.com/avijitsamantaray) |
 
 ## **Contribute on**
 
