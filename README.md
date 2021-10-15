@@ -50,6 +50,7 @@ This repository accepts all kinds of Python script contributions. Please refer t
 | 5         | [Public IP Address](https://github.com/DSC-CETB/Py-Scripts/tree/main/scripts/Public%20IP%20Address)         | Find your external IP address on the internet usage                                                       | [Yagyandatta](https://github.com/yagyandatta)         |
 | 6         | [URL_Short](https://github.com/DSC-CETB/Py-Scripts/tree/main/scripts/URL_Short)   | This Script allows you to shorten a URL | [Yagyandatta](https://github.com/yagyandatta) |
 | 7         | [Password_saver](https://github.com/DSC-CETB/Py-Scripts/tree/main/scripts/Password-saver)   | This script allows you to Store your password in encrypted format | [avijit](https://github.com/avijitsamantaray) |
+| 8         | [Hospital Management System](https://github.com/DSC-CETB/Py-Scripts/tree/main/scripts/Hospital%20Management%20System)   | Searching Facilities,Tracks information about doctors and patients and more.. | [Jayanti](https://github.com/Jayanti2919) |
 
 ## **Contribute on**
 
