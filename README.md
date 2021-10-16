@@ -51,8 +51,7 @@ This repository accepts all kinds of Python script contributions. Please refer t
 | 6         | [URL_Short](https://github.com/DSC-CETB/Py-Scripts/tree/main/scripts/URL_Short)   | This Script allows you to shorten a URL | [Yagyandatta](https://github.com/yagyandatta) |
 | 7         | [Password_saver](https://github.com/DSC-CETB/Py-Scripts/tree/main/scripts/Password-saver)   | This script allows you to Store your password in encrypted format | [avijit](https://github.com/avijitsamantaray) |
 | 8         | [Hospital Management System](https://github.com/DSC-CETB/Py-Scripts/tree/main/scripts/Hospital%20Management%20System)   | Searching Facilities,Tracks information about doctors and patients and more.. | [Jayanti](https://github.com/Jayanti2919) |
-| 9         | [Text Summarizer](https://github.com/DSC-CETB/Py-Scripts/tree/main/scripts/Text%20Summarizer)   | This script allows generate shory summaries of long text articles | [
-Aditya](https://github.com/aditya172926) |
+| 9         | [Text Summarizer](https://github.com/DSC-CETB/Py-Scripts/tree/main/scripts/Text%20Summarizer)   | This script allows generate shory summaries of long text articles | [Aditya](https://github.com/aditya172926) |
 
 
 ## **Contribute on**
