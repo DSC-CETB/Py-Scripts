@@ -52,8 +52,8 @@ This repository accepts all kinds of Python script contributions. Please refer t
 | 7         | [Password_saver](https://github.com/DSC-CETB/Py-Scripts/tree/main/scripts/Password-saver)   | This script allows you to Store your password in encrypted format | [avijit](https://github.com/avijitsamantaray) |
 | 8         | [Hospital Management System](https://github.com/DSC-CETB/Py-Scripts/tree/main/scripts/Hospital%20Management%20System)   | Searching Facilities,Tracks information about doctors and patients and more.. | [Jayanti](https://github.com/Jayanti2919) |
 | 9         | [Text Summarizer](https://github.com/DSC-CETB/Py-Scripts/tree/main/scripts/Text%20Summarizer)   | This script allows generate shory summaries of long text articles | [Aditya](https://github.com/aditya172926) |
-
-
+| 10         | [Tic-Tac-Toe-GUI](https://github.com/DSC-CETB/Py-Scripts/tree/main/scripts/Tic-Tac-Toe-GUI)   | This is a paper-and-pencil game for two players | [Tanmay](https://github.com/TanCodes) |
+| 11         | [Notifier-Desktop-app](https://github.com/DSC-CETB/Py-Scripts/tree/main/scripts/Notifier-Desktop-app)   | Notifier app is a Desktop app from which user can set the notification as per their time with title and message | [Tanmay](https://github.com/TanCodes) |
 ## **Contribute on**
 
 You can start contributing to this project  either by,
