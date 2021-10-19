@@ -54,6 +54,10 @@ This repository accepts all kinds of Python script contributions. Please refer t
 | 9         | [Text Summarizer](https://github.com/DSC-CETB/Py-Scripts/tree/main/scripts/Text%20Summarizer)   | This script allows generate shory summaries of long text articles | [Aditya](https://github.com/aditya172926) |
 | 10         | [Tic-Tac-Toe-GUI](https://github.com/DSC-CETB/Py-Scripts/tree/main/scripts/Tic-Tac-Toe-GUI)   | This is a paper-and-pencil game for two players | [Tanmay](https://github.com/TanCodes) |
 | 11         | [Notifier-Desktop-app](https://github.com/DSC-CETB/Py-Scripts/tree/main/scripts/Notifier-Desktop-app)   | Notifier app is a Desktop app from which user can set the notification as per their time with title and message | [Tanmay](https://github.com/TanCodes) |
+| 12         | [Weather Check](https://github.com/DSC-CETB/Py-Scripts/tree/main/scripts/Weather)  | This script allows you to check city weather using Open Weather API | [Bambang](https://github.com/bamsarts) |
+
+
+
 ## **Contribute on**
 
 You can start contributing to this project  either by,
