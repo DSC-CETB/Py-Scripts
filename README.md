@@ -56,7 +56,7 @@ This repository accepts all kinds of Python script contributions. Please refer t
 | 11         | [Notifier-Desktop-app](https://github.com/DSC-CETB/Py-Scripts/tree/main/scripts/Notifier-Desktop-app)   | Notifier app is a Desktop app from which user can set the notification as per their time with title and message | [Tanmay](https://github.com/TanCodes) |
 | 12         | [Weather Check](https://github.com/DSC-CETB/Py-Scripts/tree/main/scripts/Weather)  | This script allows you to check city weather using Open Weather API | [Bambang](https://github.com/bamsarts) |
 | 13         | [Rock-Paper-Scissors-Lizard-Spock with GUI](https://github.com/DSC-CETB/Py-Scripts/tree/main/scripts/Rock-Paper-Scissors-Lizard-Spock%20with%20%20GUI)  | The game will be an unique variation to the traditional Rock-paper-scissors game | [Abhishek](https://github.com/abhishekdwibedy-2002) |
-
+| 14         | [Pong](https://github.com/DSC-CETB/Py-Scripts/tree/main/scripts/Pong-master)  | This is a game, made by using turtle (python) | [Manas](https://github.com/manas1410) |
 
 
 ## **Contribute on**
