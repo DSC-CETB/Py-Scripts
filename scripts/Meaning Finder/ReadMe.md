@@ -4,6 +4,10 @@
 
 #### Usage
 
+
+
+- change
+
 ```
 python3 meaning_finder.py
 ```
