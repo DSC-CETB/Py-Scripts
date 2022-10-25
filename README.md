@@ -1,4 +1,4 @@
-![hacktober](https://miro.medium.com/max/1400/0*nuqEJFMVU_qIE2ZO)
+![hacktober](https://user-images.githubusercontent.com/70385488/192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6.png)
 
 # Py-SCRIPTS -1
 
